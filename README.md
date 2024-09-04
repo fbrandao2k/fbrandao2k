@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Bricsys, part of Hexagon AB (Swiss company)
-- 🌱 I’m currently a PhD student at University of São Paulo, USP, Civil / Structural Engineering
+- 🌱 I’m currently a PhD student at University of São Paulo, USP, Brazil, Civil / Structural Engineering
 - 👯 Master Degree in Engineering at CentraleSupélec, part of Université Paris-Saclay
 - 👯 Master and Bachelor Degree in Civil Engineering in Puc-Rio, Brazil
 - 📫 How to reach me: fbrandao2k@gmail.com
