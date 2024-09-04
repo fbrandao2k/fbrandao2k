@@ -28,8 +28,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualbasic/visualbasic-original.svg" height="40" alt="vb logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" height="40" alt="vb logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
