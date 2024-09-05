@@ -50,7 +50,8 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" height="40" alt="vb logo"  />
   <img width="12" />
-  
+  <img src="https://seeklogo.com/images/G/grasshopper-3d-logo-B55A18550D-seeklogo.com.png" height="40" alt="vb logo"  />
+  <img width="12" />
 </div>
 
 ###
