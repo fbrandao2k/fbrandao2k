@@ -3,7 +3,7 @@
 - 🌱 I’m currently a PhD student at University of São Paulo, USP, Brazil, Civil / Structural Engineering
 - 👯 Master Degree in Engineering at CentraleSupélec, part of Université Paris-Saclay
 - 🎯 Master and Bachelor Degree in Civil Engineering in Puc-Rio, Brazil
-- 📫 How to reach me: fbrandao2k@gmail.com
+- 📫 Some events and webinars I participated: https://linktr.ee/fbrandao2k
 - ✨ Certifications:
   - Google IT automation (2022)
   - BIM certification by BuildingSmart (2022)
