@@ -1,9 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Bricsys, part of Hexagon AB
-- 🌱 I’m currently a PhD student at University of São Paulo, USP, Brazil, Civil / Structural Engineering
 - 👯 Master Degree in Engineering at CentraleSupélec, part of Université Paris-Saclay
 - 🎯 Master and Bachelor Degree in Civil Engineering in Puc-Rio, Brazil
-- ✨Topics of Interest: **AI, Computer Vision, Automation, CAD/BIM routines, FEM, Reality Capture, Digital Twin**
+- ✨Topics of Interest: AI, Computer Vision, Automation, CAD/BIM routines, FEM, Reality Capture, Digital Twin
 - 📫 Some events and webinars I participated: https://linktr.ee/fbrandao2k
 - ✨ Certifications:
   - Google IT automation (2022)
