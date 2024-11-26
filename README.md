@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 Professional Experience: City Hall Guarujá/São Paulo/Brazil, Bricsys/Leica/Hexagon AB, and Bentley Systems
-- 👯 Master Degree in Engineering at CentraleSupélec, part of Université Paris-Saclay
+- 👯 Master Degree in Engineering at CentraleSupélec, part of Université Paris-Saclay, France
 - 🎯 Master and Bachelor Degree in Civil Engineering in Puc-Rio, Brazil
 - ✨Topics of Interest: AI, Computer Vision, Automation, CAD/BIM routines, FEM, Reality Capture, Digital Twin, Cloud, DevOps
 - 📫 Some events and webinars I participated: https://linktr.ee/fbrandao2k
