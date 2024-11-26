@@ -8,7 +8,7 @@
 - ✨ Certifications:
   - Google IT automation (2022)
   - BIM certification by BuildingSmart (2022)
-  - Leica Geosystems Reality Capture and Monitoring solutions (2021-2024)
+  - Leica Geosystems Reality Capture, Digital Twins, and Monitoring solutions (2021-2024)
   - Bentley Accredited ProjectWise Fundamentals Administrator (2024)
 
 ###
